@@ -1,0 +1,44 @@
+tab
+{
+    margin-left:50px;
+}
+
+h1
+{
+    text-align: center;
+    font-family:Brush Script MT, Brush Script Std, cursive;
+}
+
+h2
+{
+    margin:auto;
+    text-align:center;
+    border: 1px solid black;
+    width:30%;
+    border-top:none;
+    border-radius:0 0 15px 15px;
+    background-color: lightgrey;
+    cursor: url("Arrow.CUR") 4 12,default;
+}
+
+h2:hover
+{
+    background-color: grey;
+}
+
+body
+{
+    background-color: rgba(150,150,150,0.6);
+}
+
+
+year_value
+{
+    text-decoration: underline;
+}
+
+p
+{
+	margin-top:0px;
+	margin-left:10px;
+}

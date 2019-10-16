@@ -1,0 +1,88 @@
+#competence
+{
+    width: 60%;
+    margin:auto;
+    margin-bottom:0.5cm;
+}
+
+
+
+#loisir
+{
+    width: 40%;
+    margin: auto;
+    margin-top:2cm;
+    margin-bottom:1cm;
+
+}
+
+#detail2
+{
+    margin-top:2.5cm;
+}
+
+#resume
+{
+    background-color: blanchedalmond;
+    border: 3px solid black;
+    height: 3.5cm;
+    float:right;
+    border-radius:0 25px 25px 0;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    overflow: hidden;
+}
+
+#titre
+{
+    margin-right:0px;
+    margin-left:0px;
+    border:3px solid black;
+    margin-top: 0px;
+    height: 3.5cm;
+    background-color: rgba(0,128,128,0.2);
+    border-radius:25px 0 0 25px;
+}
+
+#experience
+{
+    width:45%;
+    float:right;
+    margin-right:5%;
+    clear: both;
+}
+
+#formation
+{
+    width:40%;
+    margin-left:5%;
+}
+
+#det_1
+{
+    color:black;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+    border: 1px solid black;
+    border-radius: 25px;
+    padding:0 0.5cm;
+    background-color: lightgrey;
+}
+
+#det_2
+{
+    color:black;
+    text-decoration: underline;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#det_3
+{
+    color: black;
+	font-weight:bold;
+    letter-spacing: 0.1cm;
+}
+
+#hobbie
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}

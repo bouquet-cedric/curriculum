@@ -1,0 +1,33 @@
+.year
+{
+    margin:auto;
+    /* margin-left:20px; */
+    border: 1px solid ;
+    width:70%;
+    padding:0 10px;    
+    margin-bottom:0.5cm;
+    border-radius:10px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	background-color:rgba(20,20,120,0.4);
+}
+
+.year:hover
+{
+	background-color: rgba(0,128,128,0.2);
+}
+
+.detail
+{
+    margin-top:1cm;
+    overflow: hidden;
+}
+
+.bloc
+{
+    background-color: rgba(163,128,163, 0.2);
+    border: 1px solid black;
+    padding: 0 0 1cm 0;
+	border-radius:50px;
+	border-left:2px solid;
+	border-right:2px solid;
+}
