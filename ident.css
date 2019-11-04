@@ -23,7 +23,7 @@
 
 #resume
 {
-    background-color: blanchedalmond;
+    background-color: rgb(255,200,0);
     border: 3px solid black;
     height: 3.5cm;
     float:right;
@@ -39,7 +39,7 @@
     border:3px solid black;
     margin-top: 0px;
     height: 3.5cm;
-    background-color: rgba(0,128,128,0.2);
+    background-color: gold;
     border-radius:25px 0 0 25px;
 }
 
