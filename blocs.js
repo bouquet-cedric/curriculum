@@ -2,7 +2,7 @@ function AddFormations()
 {
 
     ajouteAnnee("formations",2019);
-    ajouteDetails("formations",2019,"DEUG en Informatique");
+    ajouteDetails("formations",2019,"Bac +2 en Informatique");
     ajouteDetails("formations",2019,"Faculté Jean Perrin, Université d'Artois",2);
     
     ajouteAnnee("formations",2017);
@@ -22,6 +22,8 @@ function AddLoisirs()
 
 function AddCompetences()
 {
+    addComp("competences","Maîtrise du pack office",1);
+    addComp("competences");
     addComp("competences","Langages informatiques : ",1);
     addComp("competences");
     addComp("competences","Programmation : ",2);
@@ -31,8 +33,6 @@ function AddCompetences()
     addComp("competences","Réseaux : ",2);
     addComp("competences");
     addComp("competences","HTML, CSS, JavaScript, PHP",3);
-    addComp("competences");
-    addComp("competences","Maîtrise du pack office",1);
 }
 
 function AddExp()
