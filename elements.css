@@ -17,18 +17,18 @@ h2
     width:30%;
     border-top:none;
     border-radius:0 0 15px 15px;
-    background-color: lightgrey;
+    background-color: rgb(255,200,0);
     cursor: url("Arrow.CUR") 4 12,default;
 }
 
 h2:hover
 {
-    background-color: grey;
+    background-color: rgba(249,162,187,1);
 }
 
 body
 {
-    background-color: rgba(150,150,150,0.6);
+    background-color:rgba(0,180,220,0.5);
 }
 
 
