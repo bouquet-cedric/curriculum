@@ -1,0 +1,12 @@
+@fontface
+{
+   font-family:write;
+   src:url("BrushScript.otf");
+}
+
+
+@fontface
+{
+   font-family:write2;
+   src:url("cambrai.otf");
+}
