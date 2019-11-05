@@ -45,8 +45,4 @@ p
    margin-left:10px;
 }
 
-@fontface
-{
-   font-family:write;
-   src:url("BrushScript.otf");
-}
+
