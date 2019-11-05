@@ -6,7 +6,8 @@ tab
 h1
 {
     text-align: center;
-    font-family:write,fantasy;
+    font-family:write;
+    font-style:italic;
 }
 
 h2
