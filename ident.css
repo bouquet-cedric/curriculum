@@ -86,9 +86,3 @@
 {
     font-family: write2,default;
 }
-
-@fontface
-{
-   font-family:write2;
-   src:url("cambrai.otf");
-}
