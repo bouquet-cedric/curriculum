@@ -28,7 +28,7 @@
     height: 3.5cm;
     float:right;
     border-radius:0 25px 25px 0;
-    font-family:Cambria_italic,default;
+    font-family:write2,default;
     overflow: hidden;
 }
 
@@ -89,6 +89,6 @@
 
 @fontface
 {
-   font-family:Cambria_italic;
+   font-family:write2;
    src:url("CAMBRIAI.TTF");
 }
