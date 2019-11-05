@@ -45,6 +45,6 @@ p
 
 @fontface
 {
-   url("BrushScript.otf");
+   src:url("BrushScript.otf");
    font-family:write;
 }
