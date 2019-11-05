@@ -14,13 +14,13 @@ h2
 {
     margin:auto;
     text-align:center;
+    font-family: write2,default;
     border: 1px solid black;
     width:30%;
     border-top:none;
     border-radius:0 0 15px 15px;
     background-color: rgb(255,200,0);
     cursor: url("Arrow.CUR") 4 12,default;
-    font-family: write2,default;
 }
 
 h2:hover
