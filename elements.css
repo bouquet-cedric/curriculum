@@ -14,8 +14,9 @@ h2
 {
     margin:auto;
     text-align:center;
-    font-family: scripty,default;
+    font-family: scripty,cursive,fantasy,default;
     border: 1px solid black;
+    font-style:italic;
     width:30%;
     border-top:none;
     border-radius:0 0 15px 15px;
@@ -44,5 +45,3 @@ p
    margin-top:0px;
    margin-left:10px;
 }
-
-
