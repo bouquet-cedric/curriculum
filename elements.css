@@ -14,10 +14,11 @@ h2
 {
     margin:auto;
     text-align:center;
-    font-family: scripty,cursive,fantasy,default;
+    font-family: scripty,cursive,fantasy,default !important;
     border: 1px solid black;
     font-style:italic;
     width:30%;
+    font-size:22px;
     border-top:none;
     border-radius:0 0 15px 15px;
     background-color: rgb(255,200,0);
