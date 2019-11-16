@@ -26,9 +26,8 @@
 .bloc
 {
     	background-color: rgba(255,218,185,0.7);
-    	border: 1px solid black;
     	padding: 0 0 1cm 0;
-	border-radius:50px;
+	border-radius:15px;
 	border-left:2px solid;
 	border-right:2px solid;
 	
