@@ -23,13 +23,20 @@
 
 #resume
 {
-    background-color: rgb(255,200,200);
+    background-color: rgb(100,84,72);
     border: 3px solid black;
     height: 3.5cm;
     float:right;
     border-radius:0 25px 25px 0;
     font-family:scripty,default;
     overflow: hidden;
+    color:peachpuff;
+}
+
+#resume.a
+{
+    color:peachpuff;
+    text-decoration:none;
 }
 
 #titre
