@@ -33,7 +33,7 @@
     color:peachpuff;
 }
 
-#resume>a:link
+#resume.a:link
 {
     color:peachpuff;
     text-decoration:none;
