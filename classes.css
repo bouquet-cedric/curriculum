@@ -1,14 +1,14 @@
 .year
 {
-    margin:auto;
-    /* margin-left:20px; */
-    border: 1px solid ;
-    width:70%;
-    padding:0 10px;    
-    margin-bottom:0.5cm;
-    border-radius:10px;
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color:rgba(200,0,0,0.5);
+    	margin:auto;
+    	/* margin-left:20px; */
+    	border: 1px solid ;
+    	width:70%;
+    	padding:0 10px;    
+    	margin-bottom:0.5cm;
+    	border-radius:10px;
+    	font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    	background-color:rgba(200,0,0,0.5);
 }
 
 .year:hover
@@ -18,16 +18,17 @@
 
 .detail
 {
-    margin-top:1cm;
-    overflow: hidden;
+    	margin-top:1cm;
+    	overflow: hidden;
 }
 
 .bloc
 {
-    background-color: gold;
-    border: 1px solid black;
-    padding: 0 0 1cm 0;
+    	background-color: lemonchiffon;
+    	border: 1px solid black;
+    	padding: 0 0 1cm 0;
 	border-radius:50px;
 	border-left:2px solid;
 	border-right:2px solid;
+	
 }
